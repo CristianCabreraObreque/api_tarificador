@@ -1,0 +1,6 @@
+@api_tarificador_HostAddress = http://localhost:5296
+
+GET {{api_tarificador_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

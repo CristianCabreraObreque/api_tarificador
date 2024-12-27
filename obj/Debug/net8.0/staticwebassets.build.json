@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zE4HlzVudQ2wq2PCZuax7P3T4hXcf/nWaaI0eZEsOvA=",
+  "Source": "api_tarificador",
+  "BasePath": "_content/api_tarificador",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
